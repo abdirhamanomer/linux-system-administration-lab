@@ -1,2 +1,2 @@
 # linux-system-administration-lab
-Hands-on Ubuntu Linux administration, networking, SSH, user management, file permissions, and troubleshooting using two VirtualBox servers.
+	Hands-on Ubuntu Linux System Administration and Troubleshooting Lab
